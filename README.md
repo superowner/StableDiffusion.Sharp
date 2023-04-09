@@ -1,5 +1,6 @@
 # StableDiffusion.Sharp
 
+此库实现了text2image，支持text weight，比如...,(1girl:1.2),solo,...
 
 出大图必爆显存，目前是320x320非常稳定出图，有懂优化显存的大佬欢迎提issue，谢谢  
 
